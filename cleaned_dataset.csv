@@ -1,0 +1,201 @@
+Customer_ID,Name,Age,Gender,Email,Phone_Number,Address,Purchase_Amount,Last_Purchase_Date,Preferred_Payment_Method,Feedback_Score,Loyalty_Member
+3f524cd7-ff15-4aad-a81e-b0e4dc0753a9,Jacob Perez,51,Female,beckerkim@gmail.com,8044538707,"45596 Joann Causeway
+Lake Alexmouth, NM 33597",164.99,2021-01-05,Credit Card,1,No
+504fa798-c34f-4cd8-adbf-e08f638b1a63,Lisa Pena,43,Female,steven45@lamb-johnson.biz,8096781319,"52767 Foster Passage Apt. 334
+Robinland, RI 02967",949.38,2021-01-29,Credit Card,5,Yes
+17e06a52-ca9d-4627-997b-9d4a04df58c2,Mr. Brandon Escobar,25,Female,hollandjustin@jennings-george.com,331680538482795,"425 Chandler Creek Suite 353
+Robertview, AR 57713",715.91,2023-11-29,Debit Card,3,Yes
+c33c66a7-ab4c-4671-98ff-cc032869e800,John Holt,61,Female,rbeard@thomas.com,,"339 Horton Drives
+New Brandonmouth, MS 28073",392.45,2024-02-03,Paypal,2,No
+c9fb0d80-b482-487a-a111-a4863fef3dc2,Kayla Payne,57,Other,bauerbilly@johnson-morris.net,19408833548,"95891 Richard Motorway
+New Tiffanyport, NM 76978",509.9,2024-08-12,Debit Card,4,Yes
+836a45d3-17f9-49e6-963f-17ffb5ca0813,Anthony Wade,28,Male,david38@yahoo.com,6742123845,"89217 Stacie Junction
+Johnsonport, DC 17888",907.45,2022-09-21,Paypal,1,No
+26152e8e-f41d-4c22-ab92-d2f69b89ca64,Richard Williams,38,Other,kpeterson@gmail.com,2217487736881,"7192 Jose Lodge
+Bennettton, CO 93649",553.87,2024-07-30,Credit Card,4,Yes
+baf75b39-587b-45a0-9eed-99f0fd3c1abe,Miss Bonnie Payne,52,Male,fholden@kennedy-hurst.com,9951099405018,"637 Harrell Lock Suite 819
+Port Andreaview, AK 60443",417.37,2023-02-04,Debit Card,5,No
+33926b56-361f-4f06-a6d8-fd17cad339d7,Crystal Pierce,20,Other,owalker@obrien.biz,3921493238,"0031 Jacob Isle Apt. 295
+Lake Kevinchester, UT 77228",809.62,2024-11-08,Paypal,3,Yes
+b05cca71-7d38-4b1e-a931-928e620f5286,Brooke Anderson,62,Male,dianesanchez@gmail.com,7006289888,"4053 Parker Mountain
+South Robinfurt, CT 19761",612.52,2024-02-27,Credit Card,1,No
+c0753aa6-2ccf-4420-ae97-7eac84f2fa2e,Jeffrey Saunders,28,Other,phillipstracy@hotmail.com,0236089747,"71842 Morrison River
+New Jimmyburgh, AR 15985",239.35,2025-03-06,Credit Card,3,No
+72f12f88-5879-499c-ab78-8214b59fdc37,Shaun Frost,36,Male,judyhunt@gmail.com,185848511126609,"71746 Manning Streets
+North Andrewland, MD 63620",286.59,2023-09-25,Credit Card,1,Yes
+0dadf63e-3aaa-4e43-8a9a-86d1db22924f,Cassandra Blair,75,Male,steelelori@franklin.biz,8029468657,"466 Gonzalez Place Suite 993
+Montgomeryberg, AK 10622",574.99,2023-04-05,Debit Card,1,No
+8de7c66c-997d-4bcc-8cba-92b798f7f03f,Ryan Turner,46,Male,linda86@hotmail.com,6438879119542,"755 Russell Meadows Apt. 991
+Woodville, DE 68546",59.96,2024-03-01,Paypal,4,No
+6903756a-9d17-41a1-9061-af6dd90b2608,Jessica Ford,59,Female,hartmiguel@yahoo.com,2686356866,"75613 Thomas Way
+Samanthachester, IA 86087",840.69,2023-06-21,Debit Card,1,No
+489de600-798d-4a8d-8159-a6b8e5cdcf94,Megan Russell,23,Female,uwoods@hotmail.com,5855772758396,"756 Allen Ports Apt. 607
+South Morgan, UT 32982",186.48,2022-03-23,Credit Card,2,Yes
+1ce693ca-5a1e-4d9a-be1f-508961e8c8bc,Kevin Davies,47,Other,chandlerbrent@perkins-mendoza.com,946731203507779,"1332 Boyer Common Apt. 697
+Port Amyberg, NY 88019",646.35,2022-05-23,Debit Card,1,Yes
+55e7f200-9274-4a89-ae9e-6eb7c2dabb51,Dana Rodriguez,61,Male,lauren21@mueller-miller.com,2578122768758,"PSC 3305, Box 7362
+APO AP 34852",59.63,2022-07-05,Debit Card,2,No
+ad65be6c-1b6f-4e07-962e-a48f78766cf3,Jennifer Jenkins,56,Female,shawn42@berry.com,3834852868,"00630 Wilson Roads
+South Stevenshire, WA 17355",216.67,2021-05-25,Credit Card,2,No
+a461c448-21e7-423f-9a79-496b9fcde33e,Dawn Santos,27,Female,christinafrench@gmail.com,50380348438791,"198 Davis Ramp
+East Jilltown, CO 92924",589.62,2024-09-23,Credit Card,3,No
+2173936d-fbd8-4998-896c-43523bcc3207,Jonathan Vasquez,22,Male,amy66@hanson-gray.com,96578837796779,"USCGC Wright
+FPO AE 04549",740.72,2021-08-12,Paypal,1,Yes
+12b2b59c-c664-4820-8904-cd836fa12ba7,Kyle Thornton,69,Other,lindseybutler@perry.com,12328663604824,"97157 Brown Ford Suite 503
+Philiptown, NV 42107",986.2,2023-02-07,Cash,4,Yes
+70f37702-8b0c-4425-9b28-8601bfd905ec,Tamara Espinoza,51,Other,pwilliams@gmail.com,0019816984028120,"93262 Johnson Court
+South Richard, MO 23956",788.48,2024-11-26,Debit Card,5,No
+e9ae588c-56a4-4182-8d46-0d125bd65802,Brandon Rose,65,Female,martha49@gonzalez.com,,"673 Donald Pine
+Taylorfort, WY 97657",520.54,2021-01-15,Credit Card,2,No
+f0325b51-a4de-4bb0-8f29-137bd2778a38,Gerald Romero,22,Female,bradleyluis@hotmail.com,00188043976420920,"07210 Johnson Mills Apt. 480
+West Erik, KY 22220",438.96,2024-06-09,Credit Card,1,Yes
+fc7a0893-4242-4713-9da3-c5e87739c348,Lisa Bailey,76,Female,bhansen@hotmail.com,390624161459837,"PSC 1229, Box 0373
+APO AP 77160",729.86,2024-03-21,Credit Card,5,Yes
+ab09b1d3-eb54-46f5-a383-5501e2f93d27,Eric Herrera,23,Male,richard47@ochoa.com,83081413702182,"47153 Smith Station
+Davidton, FL 16104",672.88,2024-03-30,Paypal,5,Yes
+97efd246-c7c0-4876-8f61-61a25822c482,Rebecca Fleming,79,Other,paul23@heath-sanchez.com,090151205900417,"492 Mooney Stream
+Jamesmouth, IL 65236",303.64,2022-04-17,Credit Card,5,No
+ad82ce0f-6880-4cd0-9d00-696e54e73401,Dr. Alex Washington,56,Other,munozchad@yahoo.com,9497794648,"47182 Gregory Turnpike
+Walterside, MA 35948",783.26,2024-05-09,Credit Card,3,No
+e036a4de-b842-4c0b-9fef-3a104deb6903,Derek Galloway,38,Other,rperez@gmail.com,8952622659,"77184 Monica Underpass
+West Marcburgh, OR 25337",802.38,2024-03-30,Cash,5,Yes
+6a84dc9a-fdf8-4b90-9731-52bfd197cf7c,David Ford,75,Male,bgray@hotmail.com,7857747958,"899 Kristen Hills Suite 195
+West Michaelshire, NJ 86804",339.99,2025-03-12,Credit Card,2,Yes
+530361b1-6bde-4f86-8911-350073304141,Patrick Ortega,65,Other,williambaldwin@yahoo.com,0016358468093130,"8817 Ryan Neck Apt. 223
+Burnettstad, IN 19272",33.87,2022-01-05,Cash,4,No
+a3ad2bd4-d6b2-4571-ad86-9b9fe3af4d68,Timothy Ray,64,Male,lorijohnson@gmail.com,176024352617996,"PSC 5171, Box 9795
+APO AP 35065",415.02,2020-08-12,Cash,5,Yes
+b20d2b56-6191-4855-948e-04f9e1b7bcb0,Debbie Pearson,40,Female,cheryl73@choi-ayala.com,5580722689,"2962 Dawn Turnpike Apt. 299
+New Chad, ME 00840",251.35,2023-02-03,Debit Card,4,Yes
+9f748a3b-b402-4809-afae-80c446514d8f,Amy Wang,37,Other,woodsmichael@gmail.com,3474207259,"955 Copeland Causeway
+South Kimberly, CO 15988",230.16,2020-12-21,Debit Card,5,Yes
+57892774-4e7a-4ea4-991a-6ba2a379a197,Amber Miller,20,Male,olsenjames@wilson.com,0013324146602,"Unit 6930 Box 1556
+DPO AP 81360",711.35,2024-05-11,Paypal,2,No
+967e3fd9-0b0d-4e3b-91d0-da1c288f7525,Shannon Blanchard,70,Female,danielchang@gmail.com,,"1845 Janet Spur Suite 391
+Heidimouth, ND 55571",29.23,2020-08-31,Credit Card,4,No
+f298ba3c-c453-455d-9500-a9414bc8885a,Shannon Duncan,67,Female,sydneylewis@hotmail.com,,"Unit 2740 Box 3559
+DPO AA 83198",575.83,2021-02-05,Paypal,5,No
+f479c986-6f56-41cf-8341-bb13408f458a,Nicole Lozano,78,Male,andrew04@white.org,8839859905,"17148 Catherine Ridge
+East Duane, MI 09703",728.2,2020-08-17,Credit Card,1,No
+723d6a8e-d2ef-4b3b-b7b3-0e94f2a1ffb1,Kenneth Hays,60,Other,danielamanda@delacruz-griffith.com,68235424654334,"653 Collins Parkways Suite 709
+West Bridget, CO 25404",236.77,2021-09-07,Cash,2,No
+ea22e6c0-622d-4a9b-9654-620d41e7b306,Amber Evans,49,Other,chelseamclean@yahoo.com,14631898411,"71971 Edwards River Suite 734
+Jenningsfort, MT 15162",470.97,2021-07-19,Debit Card,4,No
+cc40b2d6-c756-48b7-9549-88dc7e94c913,Stephanie Johnson,40,Female,ohale@hardy-barker.com,0589684708179,"5541 Sue Spring
+South Laura, UT 88058",290.83,2024-06-16,Cash,2,Yes
+47b5e2a3-e6c5-463d-a75f-a974747d8167,Darrell Collins,27,Other,yharrison@hill.info,,"222 Victoria Burgs
+Michaelfurt, NM 86831",72.13,2023-02-01,Credit Card,2,No
+f426e765-35c8-42ce-a670-d028536e3aa2,Brian Doyle,73,Female,vleon@yahoo.com,,"335 Lloyd Spur Apt. 825
+North Brianville, NH 12644",775.78,2021-12-28,Credit Card,3,Yes
+73e4e938-2101-4fe5-84c9-1ac84603288e,Thomas Hill,30,Other,rrichardson@allen.net,0016126400204923,"25497 Santos Mission
+Lake Johnathanland, NH 06950",447.5,2024-02-09,Paypal,2,No
+1d89caa0-f5e2-4452-b7c0-d2f169b8c595,Jeffrey Cervantes,56,Female,christopher19@wilson-cook.com,165998047872951,"5882 Hoffman Harbor
+North Melissa, NV 54679",135.1,2020-10-21,Paypal,5,No
+2c2df288-113f-4b03-b243-fe9035c0c484,Joseph Spencer,30,Other,greenejames@yahoo.com,01787557138311,"Unit 9590 Box 9597
+DPO AP 76484",37.05,2023-07-15,Credit Card,1,Yes
+9d3e0242-e298-4ff9-8bbe-e73b7c363e33,Joseph Contreras,37,Female,rsandoval@pace.com,001367872472143860,"458 Amanda Plain Suite 845
+New Michaelland, WI 78195",949.55,2020-11-08,Cash,2,Yes
+403844d4-e74a-4409-a4d8-816fca98a19b,Jerry Rodriguez,33,Male,madelineschneider@graves.com,,"107 Alexandra Ridge Suite 336
+Ortizborough, NJ 50209",813.66,2020-05-09,Paypal,3,No
+45b45325-7cc6-41e6-8276-c14a222705f2,Michael Hogan,23,Female,udurham@hotmail.com,115898828677722,"449 Miles Springs Suite 081
+New Saraville, VA 55704",561.58,2024-02-10,Credit Card,2,Yes
+8caadd75-3608-4c3a-b4f5-30edae92b49e,Tammy Russell,58,Other,vpowell@ray.org,3891200234254,"569 Perez Wells
+South Franciscostad, DC 72232",297.32,2023-06-28,Debit Card,4,Yes
+ac2fead8-13a3-439c-a085-703c67331db3,Ashley Robinson,54,Female,craigking@mcfarland-page.info,,"0008 Hansen Crossroad
+South Karenborough, KS 21796",862.2,2021-07-10,Cash,4,Yes
+e3c0bf67-3e63-401b-bf50-8d2d48dc534f,Jacob Gonzalez,41,Female,milleramy@gmail.com,77632511641688,"61095 Douglas Mission Suite 997
+Perezhaven, AL 80115",260.0,2022-09-09,Credit Card,2,No
+234085dc-7284-4373-8324-5781ccb63ce3,Kimberly Frost,71,Other,courtney39@hodges-horn.com,5497041586719,"48208 Susan Springs Apt. 451
+Gonzalezfurt, NM 24047",596.83,2022-09-07,Paypal,3,No
+34a9f38b-e7d0-4346-a0ea-f8f4ebec155a,Jeffery Ballard,19,Other,robert34@yahoo.com,66177307904488,"880 David Land
+Geoffreymouth, IA 64617",642.88,2024-09-19,Debit Card,1,No
+ded5bf77-3fe8-45bc-b313-63b824f3e4f0,Nicole Brown,52,Other,joshuaadkins@krueger-park.com,5671913068,"991 Daniel Walks Apt. 915
+Jessicaberg, AR 06985",626.24,2021-12-12,Debit Card,3,No
+1d762987-d8a4-4668-be2a-3610e3d020da,Randy Miller,68,Other,brent81@jordan-pham.com,00148930871467915,"964 Stacy Drive
+Emilyport, NY 54153",952.3,2020-12-08,Credit Card,4,Yes
+8bd97421-ced3-435f-87ca-b84e01ed4b41,Melissa Briggs MD,24,Other,kathleen95@peters.com,1435108476,"4886 Bruce Run
+Perezfort, KS 98953",523.38,2024-12-06,Debit Card,4,Yes
+9aaa81e0-a6af-4a56-aaec-451af08ea9f1,Johnny Smith,58,Female,richardbryant@hotmail.com,001908855994965394,"331 Brown Shore
+Wheelerborough, LA 73886",130.26,2024-07-20,Paypal,4,Yes
+d6982d9c-f7de-4afe-9807-9b7d8852012e,Samantha Lee,59,Female,brownmelissa@graham.com,25739348187298,"5647 Johnson Views
+Thomasville, MA 73366",57.62,2021-06-02,Debit Card,5,No
+c8962b3b-3752-4dea-a2fd-cdcf60f381c4,David Thompson,43,Other,kingbonnie@saunders.info,30164270502624,"1544 Robert Drives
+Kyleville, GA 58297",521.78,2023-01-19,Debit Card,4,No
+2fdd376c-5b65-4c57-a1be-158108e9dd82,Lori Perkins,47,Female,larmstrong@jennings-wagner.net,970935261306757,"4582 Kenneth Creek Apt. 639
+Stephenmouth, MN 65743",814.99,2024-07-21,Credit Card,3,No
+e4b0b397-c255-44c0-800a-43c3bbf75fba,Chad Lopez,37,Female,peggy51@gmail.com,4497333059,"2314 West Lake Apt. 536
+East Davidshire, IA 53468",321.05,2023-04-04,Debit Card,4,Yes
+47d6f79b-4ebf-4659-ba42-7ae533bebc80,Dennis Davis,70,Female,ashley17@peters.com,696315472343251,"77363 Alexander Center
+East Paul, AZ 18498",951.27,2023-08-01,Credit Card,5,Yes
+92600699-a65d-4459-9c7b-77bb9419efbc,Rita Castillo,62,Male,anthony88@gmail.com,2240351864,"USNV Garcia
+FPO AP 05761",659.29,2022-03-09,Credit Card,4,No
+66415857-325c-4f8e-8790-e0662f900910,David Lewis,55,Male,umills@yahoo.com,128453370185245,"44278 Herman Plaza
+Johnburgh, OH 40574",187.13,2022-07-11,Paypal,3,Yes
+4d23364f-9f25-4b4a-967a-9d7f5a119e71,Ronald Smith,45,Female,kevin97@giles-ware.com,0522421816,"11590 Brandon Land
+Lake Matthew, CO 90300",487.45,2020-01-30,Debit Card,2,No
+e41312d2-d013-4476-af98-05e84a8a7683,Tracy Carey,56,Male,meyersandra@yahoo.com,7747547890,"12702 Kimberly Radial Apt. 627
+Benjaminland, TX 02177",397.22,2023-03-06,Debit Card,5,No
+acd0e77d-5e39-42b8-bcf9-cd1440424f6b,Daniel Trevino,68,Male,trankimberly@harris-thomas.biz,,"633 Adams Green
+New Christopherport, ND 88621",691.76,2021-07-16,Paypal,1,No
+5d5ddcc5-9574-4144-b7a4-553c174451c1,Philip Harris,23,Other,hansondebbie@gibson-fox.org,8208241559,"0810 Margaret Lock Apt. 214
+Lake Stacyfort, GA 41484",127.38,2023-02-23,Debit Card,2,No
+eb814bb1-c668-4d64-a087-f29fc32e7336,Beverly Moody,48,Male,melinda08@gmail.com,6429637260369,"USNS Brown
+FPO AP 05007",194.35,2024-11-24,Debit Card,1,Yes
+4d4c0b0d-09e1-4fd6-98bd-c88a6824e64c,Marissa Tran,23,Female,kimbrent@palmer-townsend.com,432516005882049,"62977 Ashley Glen Suite 542
+Lake Kevin, FL 05958",704.13,2024-02-12,Paypal,2,No
+277ae149-1a39-4631-b723-b7b6ce2fb9aa,David Davis,78,Female,jonathan67@hotmail.com,2198143499,"88937 Dennis Grove Suite 470
+Lake Abigailfort, HI 83721",561.61,2022-06-22,Paypal,3,Yes
+18d89f14-4f45-42e2-a51d-762ffb1e3e25,Alexander Valentine,68,Other,emilylewis@gmail.com,4979051467493,"PSC 4695, Box 3146
+APO AA 73391",212.72,2022-11-25,Paypal,5,No
+18431d6b-526f-4384-8cf1-6fe399fad6c1,Brian Howard,58,Male,gallegosjessica@gmail.com,0208428837,"9468 Debra Springs
+New Raymondburgh, AK 50200",741.61,2024-08-02,Paypal,2,Yes
+5ecf1549-fadd-47f9-9a25-9a6644504d28,Charlene Simmons,62,Male,daviskristin@green.com,529651848899536,"6891 Thomas Wells Suite 039
+Cassandraview, VT 96210",906.64,2020-10-05,Cash,4,No
+8cea5c03-148e-401c-be46-3191bffc7b51,Nicole Poole,74,Male,hectorbradford@cortez.com,33767421307041,"8522 Simon Pass Suite 821
+Stevenview, MS 65861",705.59,2022-04-13,Credit Card,1,No
+aabe6bb0-b0e8-4802-830c-78a4dd4441da,Jeffrey Smith,30,Other,gjackson@yahoo.com,4919511608,"46431 Shannon Place
+East Calebfort, CT 50851",303.53,2021-03-15,Paypal,4,Yes
+a70de1c1-3a54-490a-8d79-10985901b60c,Matthew Green,39,Other,anthonynewton@gmail.com,186540636919706,"7515 Robinson Cliff
+Smithton, TX 83455",698.89,2022-04-14,Paypal,1,No
+245c91c7-98d9-422b-9340-593d2ba9ca7f,Sara Stewart,21,Other,jamesharris@brock.com,24590679682688,"87754 Lewis Plains Suite 216
+Burkestad, FL 71218",967.89,2023-09-13,Paypal,4,Yes
+11cb499c-9f35-47c8-bb62-93a2fa409374,Cynthia Saunders,55,Female,claudiacastaneda@anderson-tucker.com,7873165222,"3565 Evans Station
+Saraton, UT 18991",221.55,2024-06-06,Paypal,2,No
+06ccce07-93f0-4987-8200-062c15ff7a14,William Bartlett,32,Other,marywolf@hotmail.com,8812406971,"95098 Donna Landing Apt. 858
+Brittanyberg, IL 08783",224.13,2023-01-30,Paypal,1,No
+e649a27f-c70f-42b5-b825-4cdb517cf62a,Jeremiah Miller,20,Other,jeffreyrusso@gmail.com,001292233233296024,"23417 Andrew Coves Suite 025
+Lake Holly, OK 08760",153.09,2023-07-19,Credit Card,1,No
+50cd74a2-3b99-4080-bf81-4cc9a9e8f8b2,Tanner Melendez,77,Male,jeremy91@frank.com,11603630159,"374 Craig Springs
+Markland, DC 73609",396.11,2021-09-19,Debit Card,5,Yes
+92229fe6-3c6a-46d9-9b08-952cced9d805,Anthony Olsen,29,Male,jodi48@hotmail.com,4349280711,"136 Cody Expressway
+East Coltonchester, MI 66266",185.41,2020-09-18,Cash,4,Yes
+0349f2f7-b462-4472-8d54-7007b7352dc5,Michelle Humphrey,23,Other,gina29@gomez-brown.org,5078734436,"963 Victoria Radial Suite 519
+Hardinberg, NE 63030",48.3,2024-01-22,Paypal,2,No
+c30bf149-7dd8-4e72-86e0-5080e5159131,Thomas Tucker,22,Male,joseph93@hotmail.com,9966559966103,"756 Ronald Burgs
+West Matthew, RI 21200",716.51,2023-09-19,Debit Card,4,No
+45c9c686-6320-4a5a-b854-e9a13a55b656,Alexander Lopez,46,Female,rlove@patterson.com,,"Unit 2196 Box 5629
+DPO AE 52964",324.12,2022-02-27,Debit Card,4,No
+bb87de86-a0fb-4623-87bf-eb3915355cc0,Jeffrey Henson,80,Other,lisa71@yahoo.com,92970676012047,"599 Welch Route
+South Jessicamouth, MI 21452",297.19,2021-04-04,Debit Card,3,No
+4947a34b-eeb4-45e1-8077-f27dbfc90c28,Brent Bailey,64,Male,wmarshall@gmail.com,18095596735979,"761 Ronald Well
+Breannaville, WI 06604",253.89,2022-07-03,Cash,2,Yes
+9b12998c-ce80-4e62-becc-0f3f1e47b151,Brian Harper,73,Male,cerickson@griffith.info,718679507223548,"418 Carter Light Suite 131
+North Ronaldbury, ND 71651",905.4,2023-01-12,Debit Card,5,No
+73738ff4-e503-4301-b2a9-5413850654ed,Lauren Thomas,22,Male,rochoa@johnson.biz,6522654385,"3427 Harris Burgs Suite 359
+Laurastad, PA 92766",346.14,2024-10-19,Debit Card,3,No
+299833dd-6bd8-43ff-a7c8-69170db3abf9,Abigail Boyle,24,Other,jenniferaguilar@gmail.com,00122219645388021,"463 Alyssa Canyon
+Deleonview, UT 06109",963.6,2022-03-27,Credit Card,3,No
+d90cdf0a-6445-4a32-a0e7-e5efa5429569,Lisa Riddle,28,Male,sergiothomas@hotmail.com,,"14922 Michael Rapids Apt. 238
+Stephenchester, WV 29810",581.62,2024-05-04,Debit Card,3,Yes
+990af70e-fb67-4c47-949a-0a91c544e73e,Danielle Pollard,18,Female,adrienne41@hotmail.com,161417914605735,"964 George Grove Apt. 982
+Reyesside, DC 53697",764.53,2021-01-13,Debit Card,3,No
+cfdd49db-4350-442e-8e0a-bc3b6d74e246,Joanna Reeves,60,Other,xdavis@campbell.com,001192500677113273,"051 James Highway Suite 289
+South Garybury, SD 35429",26.58,2022-08-12,Cash,2,No
+b8c4e414-4bbd-4df9-9014-0be5f540feda,Angela Ruiz,30,Male,michaelgonzales@gmail.com,2723147129657,"064 Lisa Road Apt. 541
+Alexanderbury, CT 69574",762.67,2021-05-20,Cash,2,No
+a015f201-1762-4344-be73-b0e70add6f84,Phillip Gonzalez,24,Female,jackson16@hotmail.com,579628885341731,"7999 Aaron Trafficway Apt. 574
+South Louiston, NC 55812",913.38,2023-03-09,Debit Card,4,No
+9aca1527-cc6c-4788-8522-66cdb22d756d,Gary Oneill,48,Female,qglenn@gmail.com,16538392687757,"10051 Karen Meadows
+South Devon, MI 38432",498.51,2021-08-29,Cash,2,No
+8bdd01d8-5d24-4b5f-a477-05addb64e4b9,Arthur Guzman,74,Male,amber25@bailey.com,0388756011,"675 Barbara Trail Suite 284
+Lake Marcus, LA 62765",352.59,2020-10-10,Debit Card,2,Yes
