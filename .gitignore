@@ -89,11 +89,7 @@ Temporary Items
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -107,7 +103,6 @@ parts/
 sdist/
 var/
 wheels/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -356,3 +351,58 @@ ChatPDF
 Vision
 Full Page
 Invite & Earn
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Results
+results/*.png
+!results/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
