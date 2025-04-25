@@ -1,16 +1,50 @@
-<div style="font-size:2.5em; font-weight:bold; text-align:center; margin-top:20px;">Data Directory Documentation</div>
+<div style="font-size:2.5em; font-weight:bold; text-align:center; margin-top:20px;">Data Documentation</div>
 
-This directory contains all data files used in the Bayesian Regression analysis of customer transaction data.
+## 1. Data Directory Structure
+This directory contains all data-related files for the Bayesian Regression Analysis project.
 
-# 1. Directory Structure
+## 1.1 Directory Structure
+```
+data/
+├── raw/              # Original dataset
+│   └── original_dataset.csv  # Raw customer transaction data
+└── processed/        # Cleaned and processed data
+    └── processed_data.csv    # Preprocessed dataset ready for analysis
+```
 
-## 1.1 raw/
-Contains the original, unprocessed data:
-- `original_dataset.csv`: The initial dataset before any preprocessing
+## 1.2 Dataset Description
+The customer transaction dataset contains the following features:
 
-## 1.2 processed/
-Contains cleaned and processed data:
-- `cleaned_dataset.csv`: The preprocessed dataset ready for analysis
+### 1.2.1 Raw Data (`raw/original_dataset.csv`)
+- Transaction amount
+- Customer demographics
+- Time-based features
+- Product categories
+- Payment methods
+
+### 1.2.2 Processed Data (`processed/processed_data.csv`)
+- Standardized numerical features
+- Encoded categorical variables
+- Engineered features
+- Cleaned and validated data
+
+## 1.3 Data Processing Pipeline
+1. Data loading from `raw/original_dataset.csv`
+2. Data cleaning and validation
+3. Feature engineering
+4. Data standardization
+5. Saving processed data to `processed/processed_data.csv`
+
+## 1.4 Data Usage
+The processed data is used by:
+- `src/data_loader.py` for loading and preprocessing
+- `src/bayesian_regression.py` for model training
+- `src/main.py` for the analysis pipeline
+
+## 1.5 Data Privacy
+- All customer identifiers have been anonymized
+- Sensitive information has been removed or masked
+- Data is used only for analysis purposes
 
 # 2. Data Description
 
@@ -47,13 +81,7 @@ The cleaned dataset includes:
 | Feedback_Score | Integer | Customer satisfaction score (1-5) | 1 |
 | Loyalty_Member | Boolean | Whether customer is a loyalty program member | No |
 
-# 3. Data Processing Pipeline
-1. Raw data is loaded from `raw/original_dataset.csv`
-2. Data preprocessing is performed (cleaning, transformation, etc.)
-3. Processed data is saved to `processed/cleaned_dataset.csv`
-4. The processed data is used for model training and analysis
-
-# 4. Data Version Control
+# 3. Data Version Control
 - Original data files should never be modified
 - All data transformations should be documented
 - Processed data can be regenerated from the original data using the preprocessing pipeline 

@@ -13,16 +13,22 @@ This project implements Bayesian linear regression on a customer transaction dat
 .
 ├── data/
 │   ├── raw/              # Original dataset
-│   └── processed/        # Cleaned and processed data
+│   ├── processed/        # Cleaned and processed data
+│   └── README.md         # Data documentation
 ├── src/
 │   ├── data_loader.py    # Data loading and preprocessing
 │   ├── bayesian_regression.py  # Bayesian regression implementation
-│   ├── visualization.py  # Plotting and visualization utilities
-│   └── main.py          # Main analysis script
-├── notebooks/           # Jupyter notebooks for exploratory analysis
+│   ├── main.py          # Main analysis script
+│   └── README.md        # Source code documentation
 ├── results/             # Output directory for plots and analysis results
-├── tests/              # Unit tests and test data
+│   ├── posterior_distributions.png  # Posterior distributions visualization
+│   ├── trace_plot.png   # MCMC trace plots
+│   ├── feature_importance.png  # Feature importance visualization
+│   ├── metrics.png      # Model performance metrics
+│   └── README.md        # Results documentation
 ├── requirements.txt     # Python dependencies
+├── CONTRIBUTING.md      # Contribution guidelines
+├── LICENSE             # Project license
 └── README.md           # Project documentation
 ```
 
@@ -51,14 +57,13 @@ python src/main.py
 ```
 
 The script will:
-1. Load and preprocess the dataset
+1. Load and preprocess the dataset from `data/raw/`
 2. Build and run the Bayesian regression model
 3. Generate visualizations in the `results` directory:
-   - Posterior distributions of model parameters
-   - Trace plots for convergence diagnostics
-   - Feature importance with credible intervals
-   - Model performance metrics
-   - Comparison with traditional regression methods
+   - `posterior_distributions.png`: Posterior distributions of model parameters
+   - `trace_plot.png`: MCMC trace plots for convergence diagnostics
+   - `feature_importance.png`: Feature importance with credible intervals
+   - `metrics.png`: Model performance metrics
 
 ## 1.4 Dependencies
 The project requires the following Python packages:
@@ -69,7 +74,6 @@ The project requires the following Python packages:
 - pymc3>=3.11.5
 - scikit-learn>=1.2.0
 - arviz>=0.15.0
-- jupyter>=1.0.0 (for notebooks)
 
 ## 1.5 Dataset Description
 The customer transaction dataset contains the following features:
@@ -89,18 +93,14 @@ The Bayesian regression model includes:
 
 ## 1.7 Results Interpretation
 The analysis provides:
-- Parameter estimates with credible intervals
-- Feature importance rankings
+- Parameter estimates with credible intervals (in `posterior_distributions.png`)
+- Feature importance rankings (in `feature_importance.png`)
 - Model predictions with uncertainty estimates
-- Comparison with traditional regression methods
-- Model validation metrics
+- Model validation metrics (in `metrics.png`)
+- MCMC convergence diagnostics (in `trace_plot.png`)
 
 ## 1.8 Contributing
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Please refer to the CONTRIBUTING.md file for detailed contribution guidelines.
 
 ## 1.9 License
 This project is licensed under the MIT License - see the LICENSE file for details.

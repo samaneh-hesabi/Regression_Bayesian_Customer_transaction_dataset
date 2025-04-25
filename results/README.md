@@ -1,38 +1,59 @@
 <div style="font-size:2.5em; font-weight:bold; text-align:center; margin-top:20px;">Results Documentation</div>
 
-This directory contains the output files and visualizations generated from the Bayesian Regression analysis.
+## 1. Results Directory Structure
+This directory contains all output files and visualizations from the Bayesian Regression Analysis.
 
-# 1. Output Files
+## 1.1 Generated Files
+- `posterior_distributions.png`: Visualization of posterior distributions for model parameters
+  - Shows parameter estimates with credible intervals
+  - Helps understand parameter uncertainty
+  - Used for model interpretation
 
-## 1.1 Visualizations
+- `trace_plot.png`: MCMC trace plots
+  - Shows convergence of the Markov chain
+  - Helps diagnose sampling issues
+  - Used for model validation
 
-### 1.1.1 feature_importance.png
-- Shows the relative importance of each feature in the model
-- Displays posterior distributions of feature coefficients
-- Helps identify the most influential predictors
+- `feature_importance.png`: Feature importance visualization
+  - Ranks features by their impact on predictions
+  - Shows uncertainty in importance estimates
+  - Used for feature selection
 
-### 1.1.2 trace_plot.png
-- Visualizes the MCMC sampling process
-- Shows the convergence of model parameters
-- Helps assess the quality of the sampling
+- `metrics.png`: Model performance metrics
+  - Shows model evaluation results
+  - Compares different metrics
+  - Used for model comparison
 
-### 1.1.3 posterior_distributions.png
-- Displays the posterior distributions of model parameters
-- Shows uncertainty in parameter estimates
-- Includes credible intervals and point estimates
+## 1.2 File Generation
+These files are automatically generated when running:
+```bash
+python src/main.py
+```
 
-# 2. File Generation
-These files are automatically generated when running the analysis pipeline:
-1. The main script (`src/main.py`) generates these visualizations
-2. Files are saved in PNG format for easy viewing
-3. Each visualization is created using appropriate statistical plotting libraries
+## 1.3 Results Interpretation
+### 1.3.1 Posterior Distributions
+- Wider intervals indicate more uncertainty
+- Non-zero credible intervals suggest significant effects
+- Compare with prior distributions to see data influence
 
-# 3. Interpretation
-- All visualizations should be interpreted in the context of the Bayesian framework
-- Uncertainty estimates are crucial for proper interpretation
-- Results should be compared against business objectives and domain knowledge
+### 1.3.2 Trace Plots
+- Good mixing indicates proper convergence
+- No trends or patterns suggest good sampling
+- Use for diagnosing MCMC issues
 
-# 4. Version Control
-- Results are regenerated each time the analysis is run
-- Historical results should be archived if needed for comparison
-- The `.gitkeep` file ensures the directory structure is maintained in version control 
+### 1.3.3 Feature Importance
+- Higher values indicate stronger effects
+- Non-overlapping intervals suggest significance
+- Use for feature selection and interpretation
+
+### 1.3.4 Performance Metrics
+- Compare with baseline models
+- Check for overfitting
+- Use for model selection
+
+## 1.4 Results Usage
+These visualizations are used for:
+- Model interpretation and validation
+- Feature importance analysis
+- Performance evaluation
+- Presentation and reporting 
